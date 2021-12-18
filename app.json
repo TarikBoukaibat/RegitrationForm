@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "formulaire",
+    "slug": "formulaire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "formulaire"
+}
